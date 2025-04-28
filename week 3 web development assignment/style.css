@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+
+img {
+    width: 100px;
+    height: 200px;
+    padding: 20px;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: large;
+}
+ol li {
+    background-color: aqua;
+    padding: 20px;
+    font-size: 20px;
+    border: 50px;
+}
